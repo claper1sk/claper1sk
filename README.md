@@ -1,12 +1,10 @@
 ## Hi! I'm Sherphylle Clapano
-<p> Here are some fun facts about me:
-<ul>
-  <li>I read books, particularly in self-development and business.</li>
-  <li>I listen to podcasts to fuel myself with ideas.</li>
-  <li>I travel when I can.</li>
-  <li>Outside of my studies, I'm currently learning Unreal Engine.</li>
-</ul>
-
+<p> Here are some fun facts about me: <br><br>
+  📚 I read books, particularly in self-development. <br>
+  🎧 I listen to podcasts to fuel myself with ideas and motivation. <br>
+  ✈️ I love to travel and go on adventures. <br>
+  🏀 I play Basketball as a form of exercise.
+<!--  <li>Outside of my studies, I'm currently learning Unreal Engine.</li> -->
 </p>
 
 
