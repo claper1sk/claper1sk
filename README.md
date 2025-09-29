@@ -3,7 +3,7 @@
   📚 I read books, particularly in self-development. <br>
   🎧 I listen to podcasts to fuel myself with ideas and motivation. <br>
   ✈️ I love to travel and go on adventures. <br>
-  🏀 I play Basketball as a form of exercise.
+  🏀 I play basketball as a form of exercise.
 <!--  <li>Outside of my studies, I'm currently learning Unreal Engine.</li> -->
 </p>
 
